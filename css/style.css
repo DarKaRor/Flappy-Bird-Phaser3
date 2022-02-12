@@ -9,3 +9,8 @@ body{
     place-items: center;
     min-height: 100vh;
 }
+
+canvas{
+    max-width:600px;
+    width:100%;
+}
